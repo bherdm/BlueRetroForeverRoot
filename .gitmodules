@@ -10,3 +10,6 @@
 [submodule "pico_fw_update"]
 	path = pico_fw_update
 	url = git@github.com:darthcloud/pico_fw_update.git
+[submodule "s2_fw_update"]
+	path = s2_fw_update
+	url = git@github.com:darthcloud/s2_fw_update.git
