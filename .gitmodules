@@ -7,3 +7,6 @@
 [submodule "controller_hci_uart_esp32"]
 	path = controller_hci_uart_esp32
 	url = git@github.com:darthcloud/controller_hci_uart_esp32.git
+[submodule "pico_fw_update"]
+	path = pico_fw_update
+	url = git@github.com:darthcloud/pico_fw_update.git
