@@ -4,3 +4,6 @@
 [submodule "BlueRetro"]
 	path = BlueRetro
 	url = git@github.com:endpoint32/node0.git
+[submodule "controller_hci_uart_esp32"]
+	path = controller_hci_uart_esp32
+	url = git@github.com:darthcloud/controller_hci_uart_esp32.git
