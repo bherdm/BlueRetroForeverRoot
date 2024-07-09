@@ -6,5 +6,11 @@
 !README.windows
 !blueretro_dev.sh
 !ps_blueretro_dev.ps1
+!flash_pico.sh
+!flash_s2.sh
+!xbox_qr_code.pdf
 !esp-idf/
 !BlueRetro/
+!controller_hci_uart_esp32/
+!s2_fw_update/
+!pico_fw_update/
