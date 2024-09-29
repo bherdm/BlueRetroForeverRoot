@@ -8,6 +8,7 @@
 !ps_blueretro_dev.ps1
 !flash_pico.sh
 !flash_s2.sh
+!build_xbox.sh
 !xbox_qr_code.pdf
 !esp-idf/
 !BlueRetro/
