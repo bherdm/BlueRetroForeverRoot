@@ -13,3 +13,4 @@ python \
     0x10000 BlueRetro/build/BlueRetro.bin \
     0x310000 s2_fw_update/build/s2_fw_update.bin \
     0x394000 s2_fw_update/build/ota_data_initial.bin
+picocom -b 115200 /dev/ttyUSB1
