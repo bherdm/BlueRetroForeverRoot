@@ -1,0 +1,42 @@
+{
+    "layout": {
+        "hspace": "8mm",
+        "vspace": "2mm",
+        "hbackbone": "5mm",
+        "rows": "2",
+        "cols": "3",
+        "vbonecut": "False"
+    },
+    "tabs": {
+        "type": "annotation",
+        "tabfootprints": "xbox:Tab"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.6mm",
+        "spacing": "0.9mm",
+        "offset": "-0.3mm",
+        "prolong": "1mm"
+    },
+    "framing": {
+        "type": "frame",
+        "mintotalheight": "70mm",
+        "mintotalwidth": "70mm",
+        "cuts": "h",
+        "fillet": "1mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "12mm",
+        "voffset": "3.85mm",
+        "opening": "3mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}

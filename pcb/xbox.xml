@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Jacques\BlueRetroHW3\xbox\xbox.kicad_sch</source>
+    <date>2024-01-17 10:11:29 PM</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>BlueRetroX</title>
+        <company>©2024 Jacques Gagnon, licensed under CC-BY-4.0</company>
+        <rev>v1.0</rev>
+        <date>2024-01-10</date>
+        <source>xbox.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96a96afa-9f36-4d49-9268-62c6028ed760</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c963c01-6525-487c-83e2-048be41f7e35</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM032R60J105ME05DTR-ND</field>
+        <field name="Jlcpcb">C237458</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM032R60J105ME05DTR-ND"/>
+      <property name="Jlcpcb" value="C237458"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecf6c1c0-9c51-4c60-93ae-1b4e7d72c516</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>xbox:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM155R60J106ME05JTR-ND</field>
+        <field name="Jlcpcb">C426118</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM155R60J106ME05JTR-ND"/>
+      <property name="Jlcpcb" value="C426118"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7d5db51-d736-490c-a517-5d235ff815f2</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7410d21-138e-4099-8793-d150af3ea50e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38d4777e-d2f4-40ce-b8ae-db83cffcb684</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100p</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM033R71E101JA01DTR-ND</field>
+        <field name="Jlcpcb">C161485</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM033R71E101JA01DTR-ND"/>
+      <property name="Jlcpcb" value="C161485"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ffb09e7-7c14-4339-a50d-c15eb6d4006f</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7b4ba72-2338-4437-a38e-38a94544cef6</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM032R60J105ME05DTR-ND</field>
+        <field name="Jlcpcb">C237458</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM032R60J105ME05DTR-ND"/>
+      <property name="Jlcpcb" value="C237458"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c620ded6-0a32-41ea-af31-45d462d8a8e8</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24a17ad2-3da7-44c9-99f6-b1565f56b0bd</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM032R60J105ME05DTR-ND</field>
+        <field name="Jlcpcb">C237458</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM032R60J105ME05DTR-ND"/>
+      <property name="Jlcpcb" value="C237458"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e88c829-d1e9-4f4a-bd02-774d520b2267</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf2af8d1-cf19-4dd0-b3d9-9bda447747f9</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>973cb38b-3c40-4949-9381-458a4dfd4e4e</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10u</value>
+      <footprint>xbox:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM155R60J106ME05JTR-ND</field>
+        <field name="Jlcpcb">C426118</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM155R60J106ME05JTR-ND"/>
+      <property name="Jlcpcb" value="C426118"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d92a382-cc32-4912-9909-5d6b5440aac4</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>491225ea-59e3-4988-8147-9ba9301b8d1b</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10u</value>
+      <footprint>xbox:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM155R60J106ME05JTR-ND</field>
+        <field name="Jlcpcb">C426118</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM155R60J106ME05JTR-ND"/>
+      <property name="Jlcpcb" value="C426118"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>954d25fa-a0ef-4aaa-9f46-d5a833622ebf</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10u</value>
+      <footprint>xbox:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey">490-GRM155R60J106ME05JTR-ND</field>
+        <field name="Jlcpcb">C426118</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-GRM155R60J106ME05JTR-ND"/>
+      <property name="Jlcpcb" value="C426118"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d7a39b3-9357-4ac3-b671-7a8ef21310bc</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>20p</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">490-11315-2-ND</field>
+        <field name="Jlcpcb">C161300</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-11315-2-ND"/>
+      <property name="Jlcpcb" value="C161300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ba3bef7-1eb4-414b-a958-4af305712b0f</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>20p</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">490-11315-2-ND</field>
+        <field name="Jlcpcb">C161300</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="490-11315-2-ND"/>
+      <property name="Jlcpcb" value="C161300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9911faa7-69cd-4533-be0b-cd3669895c72</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1u</value>
+      <footprint>xbox:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">587-5831-2-ND</field>
+        <field name="Jlcpcb">C2174287</field>
+      </fields>
+      <libsource lib="xbox" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="587-5831-2-ND"/>
+      <property name="Jlcpcb" value="C2174287"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>169e1efd-51ff-4452-9236-f53e99968fa9</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>PMEG3010AESBYL</value>
+      <footprint>xbox:DSN1006-2_0.6x1mm_P0.65mm</footprint>
+      <fields>
+        <field name="Digikey">1727-2401-2-ND</field>
+        <field name="Jlcpcb">C503409</field>
+      </fields>
+      <libsource lib="xbox" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="1727-2401-2-ND"/>
+      <property name="Jlcpcb" value="C503409"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Schottky diode"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bca7d0e-02e2-4d26-8f34-c88dd18aa696</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>Green</value>
+      <footprint>xbox:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Digikey">160-1478-2-ND</field>
+        <field name="Jlcpcb">C125113</field>
+      </fields>
+      <libsource lib="xbox" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="160-1478-2-ND"/>
+      <property name="Jlcpcb" value="C125113"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb9b20bd-af28-45ed-981b-535e53dfd531</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Xbox_Ctrl</value>
+      <footprint>xbox:Xbox_PinHeader_1x05_P2.00mm_Vertical</footprint>
+      <fields>
+        <field name="Digikey">DNP</field>
+        <field name="Jlcpcb">DNP</field>
+      </fields>
+      <libsource lib="xbox" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="DNP"/>
+      <property name="Jlcpcb" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b68ae465-0bf7-47aa-9750-f4c90a39f31f</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>ICSP</value>
+      <footprint>xbox:PinHeader_1x08_P1.00mm_Vertical</footprint>
+      <fields>
+        <field name="Digikey">DNP</field>
+        <field name="Jlcpcb">DNP</field>
+      </fields>
+      <libsource lib="xbox" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="DNP"/>
+      <property name="Jlcpcb" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de388061-5712-403f-a015-748d9cd49dab</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Shield</value>
+      <footprint>xbox:TestPoint_Pad_1.0x1.0mm</footprint>
+      <fields>
+        <field name="Digikey">DNP</field>
+        <field name="Jlcpcb">DNP</field>
+      </fields>
+      <libsource lib="xbox" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="DNP"/>
+      <property name="Jlcpcb" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa965d46-6316-47fb-807a-1d301b370ff3</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Shield</value>
+      <footprint>xbox:TestPoint_Pad_1.0x1.0mm</footprint>
+      <fields>
+        <field name="Digikey">DNP</field>
+        <field name="Jlcpcb">DNP</field>
+      </fields>
+      <libsource lib="xbox" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="DNP"/>
+      <property name="Jlcpcb" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3eda22aa-1a0c-41e4-8969-312acbc1328c</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>2.0nH</value>
+      <footprint>xbox:L_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">490-13895-2-ND</field>
+        <field name="Jlcpcb">C162593</field>
+      </fields>
+      <libsource lib="xbox" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Digikey" value="490-13895-2-ND"/>
+      <property name="Jlcpcb" value="C162593"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Inductor, small symbol"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe5ee1d9-dd6d-49c8-8aad-9296c1435650</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>xbox:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">311-10.0KMTR-ND</field>
+        <field name="Jlcpcb">C3152014</field>
+      </fields>
+      <libsource lib="xbox" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-10.0KMTR-ND"/>
+      <property name="Jlcpcb" value="C3152014"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14b56538-ca21-4a33-af5a-780acfc86c44</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>499</value>
+      <footprint>xbox:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">YAG2700TR-ND</field>
+        <field name="Jlcpcb">C226563</field>
+      </fields>
+      <libsource lib="xbox" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="YAG2700TR-ND"/>
+      <property name="Jlcpcb" value="C226563"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16f962f2-7207-4e2b-adc5-196f706058ac</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>xbox:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">311-10.0KMTR-ND</field>
+        <field name="Jlcpcb">C3152014</field>
+      </fields>
+      <libsource lib="xbox" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-10.0KMTR-ND"/>
+      <property name="Jlcpcb" value="C3152014"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee4dd572-be27-4b9e-b53b-b075d0a9dd2e</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>xbox:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">311-0.0NTR-ND</field>
+        <field name="Jlcpcb">C310170</field>
+      </fields>
+      <libsource lib="xbox" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-0.0NTR-ND"/>
+      <property name="Jlcpcb" value="C310170"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1a9d94f-2def-4f93-aff5-b17cfe8bbbcc</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>xbox:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">311-10.0KMTR-ND</field>
+        <field name="Jlcpcb">C3152014</field>
+      </fields>
+      <libsource lib="xbox" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-10.0KMTR-ND"/>
+      <property name="Jlcpcb" value="C3152014"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>780a4f84-05e4-4c97-b04f-ecfed53cf4b4</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>xbox:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">311-10.0KMTR-ND</field>
+        <field name="Jlcpcb">C3152014</field>
+      </fields>
+      <libsource lib="xbox" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-10.0KMTR-ND"/>
+      <property name="Jlcpcb" value="C3152014"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7195c74a-10d5-43f6-9013-10b615f57981</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100</value>
+      <footprint>xbox:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey">311-100MTR-ND</field>
+        <field name="Jlcpcb">C5119983</field>
+      </fields>
+      <libsource lib="xbox" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-100MTR-ND"/>
+      <property name="Jlcpcb" value="C5119983"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e58f6d8e-107d-4571-af69-5673eaf8b2cd</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>BTN</value>
+      <footprint>xbox:SW_SPST_B3U-3100P</footprint>
+      <fields>
+        <field name="Digikey">SW1023TR-ND</field>
+        <field name="Jlcpcb">C4364500</field>
+      </fields>
+      <libsource lib="xbox" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Digikey" value="SW1023TR-ND"/>
+      <property name="Jlcpcb" value="C4364500"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>134826aa-72c2-4974-9fc3-7ff6ca7e05a3</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>NCP186AMX330TAG</value>
+      <footprint>xbox:OnSemi_XDFN-8_1.2x1.6mm_P0.4mm</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemtest/APID/ProductDocuments/DataSheets/MCP1727-1.5A-Low-Voltage-Low-Quiescent-Current-LDO-Regulator-20001999D.pdf</datasheet>
+      <fields>
+        <field name="Digikey">NCP186AMX330TAGOSTR-ND</field>
+        <field name="Jlcpcb">C719823</field>
+      </fields>
+      <libsource lib="xbox" part="NCP186AMX330TAG" description="1.5A, Low Voltage, Low Quiescent Current LDO Regulator, 2.3 - 6V Input, Fixed 0.8V Output, 330mV Dropout, SOIC-8"/>
+      <property name="Digikey" value="NCP186AMX330TAGOSTR-ND"/>
+      <property name="Jlcpcb" value="C719823"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="1.5A, Low Voltage, Low Quiescent Current LDO Regulator, 2.3 - 6V Input, Fixed 0.8V Output, 330mV Dropout, SOIC-8"/>
+      <property name="ki_keywords" value="Low Voltage Low Quiescent Current Fixed LDO Regulator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43dedf32-ae7a-4f55-b6a4-5c9d48cf288b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ESP32-S2</value>
+      <footprint>xbox:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf</datasheet>
+      <fields>
+        <field name="Digikey">1965-ESP32-S2FN4R2TR-ND</field>
+        <field name="Jlcpcb">C2844252</field>
+      </fields>
+      <libsource lib="xbox" part="ESP32-S2" description="ESP32-S2 family is a highly-integrated, low-power, 2.4GHz Wi-Fi System-on-Chip (SoC) solution."/>
+      <property name="Digikey" value="1965-ESP32-S2FN4R2TR-ND"/>
+      <property name="Jlcpcb" value="C2844252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="ESP32-S2 family is a highly-integrated, low-power, 2.4GHz Wi-Fi System-on-Chip (SoC) solution."/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4393d51f-803a-4108-8c5d-11c2e2caea78</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ESP32-PICO-MINI-02</value>
+      <footprint>xbox:ESP32-PICO-MINI-02</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf</datasheet>
+      <fields>
+        <field name="Digikey">1965-ESP32-PICO-MINI-02-N8R2TR-ND</field>
+        <field name="Jlcpcb">C2980306</field>
+      </fields>
+      <libsource lib="xbox" part="ESP32-PICO-MINI-02" description="ESP32-PICO-V3-02 MCU, SiP, 8MB Flash, 2 MB PSRAM in ESP32-MINI-format"/>
+      <property name="Digikey" value="1965-ESP32-PICO-MINI-02-N8R2TR-ND"/>
+      <property name="Jlcpcb" value="C2980306"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="ESP32-PICO-V3-02 MCU, SiP, 8MB Flash, 2 MB PSRAM in ESP32-MINI-format"/>
+      <property name="ki_keywords" value="esp32 espressif pico mini"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f75f65e0-02fc-4e77-a4a8-1b5a888aeeef</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>ECMF02-4CMX8</value>
+      <footprint>xbox:UQFN-8L_2.5x1.2mm_P0.5mm</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf</datasheet>
+      <fields>
+        <field name="Digikey">497-13420-2-ND</field>
+        <field name="Jlcpcb">C717678</field>
+      </fields>
+      <libsource lib="xbox" part="ECMF02-4CMX8" description="Single Pair Common Mode Filter with ESD Protection, UQFN-6L"/>
+      <property name="Digikey" value="497-13420-2-ND"/>
+      <property name="Jlcpcb" value="C717678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Single Pair Common Mode Filter with ESD Protection, UQFN-6L"/>
+      <property name="ki_keywords" value="Common Mode ESD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>079ff9eb-acfc-4579-886c-01d64841532d</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>40MHz</value>
+      <footprint>xbox:Crystal_SMD_2016-4Pin_2.0x1.6mm</footprint>
+      <fields>
+        <field name="Digikey">FW400WFMR1TR-ND</field>
+        <field name="Jlcpcb">C1986374</field>
+      </fields>
+      <libsource lib="xbox" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Digikey" value="FW400WFMR1TR-ND"/>
+      <property name="Jlcpcb" value="C1986374"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xbox.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>022369ff-0587-433b-aefc-ac68c64eb420</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="xbox" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="ECMF02-4CMX8">
+      <description>Single Pair Common Mode Filter with ESD Protection, UQFN-6L</description>
+      <docs>https://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf</docs>
+      <footprints>
+        <fp>ST?UQFN*L?1.5x1.7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ECMF02-4CMX8</field>
+        <field name="Footprint">xbox:UQFN-8L_2.5x1.2mm_P0.5mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="passive"/>
+        <pin num="2" name="D-_in" type="passive"/>
+        <pin num="3" name="D+_in" type="passive"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="D+_out" type="passive"/>
+        <pin num="7" name="D-_out" type="passive"/>
+        <pin num="8" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="ESP32-PICO-MINI-02">
+      <description>ESP32-PICO-V3-02 MCU, SiP, 8MB Flash, 2 MB PSRAM in ESP32-MINI-format</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-PICO-MINI-02</field>
+        <field name="Footprint">PCM_Espressif:ESP32-PICO-MINI-02</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="3V3" type="power_in"/>
+        <pin num="4" name="SENSOR_VP/GPIO36/ADC1_CH0" type="input"/>
+        <pin num="5" name="SENSOR_CAPP/GPIO37/ADC1_CH1" type="input"/>
+        <pin num="6" name="SENSOR_CAPN/GPIO38/ADC1_CH2" type="input"/>
+        <pin num="7" name="SENSOR_VN/GPIO39/ADC1_CH3" type="input"/>
+        <pin num="8" name="EN/CHIP_PU" type="input"/>
+        <pin num="9" name="VDET_1/GPIO34/ADC1_CH6" type="input"/>
+        <pin num="10" name="VDET_2/GPIO35/ADC1_CH7" type="input"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="12" name="32K_XP/GPIO32/ADC1_CH4" type="bidirectional"/>
+        <pin num="13" name="32K_XN/GPIO33/ADC1_CH5" type="bidirectional"/>
+        <pin num="14" name="GND" type="passive"/>
+        <pin num="15" name="GPIO25/ADC2_CH8/DAC_1" type="bidirectional"/>
+        <pin num="16" name="GPIO26/ADC2_CH9/DAC_2" type="bidirectional"/>
+        <pin num="17" name="GPIO27/ADC2_CH7" type="bidirectional"/>
+        <pin num="18" name="MTMS/GPIO14/ADC2_CH6" type="bidirectional"/>
+        <pin num="19" name="MTDI/GPIO12/ADC2_CH5" type="bidirectional"/>
+        <pin num="20" name="MTCK/GPIO13/ADC2_CH4" type="bidirectional"/>
+        <pin num="21" name="MTDO/GPIO15/ADC2_CH3" type="bidirectional"/>
+        <pin num="22" name="GPIO2/ADC2_CH2" type="bidirectional"/>
+        <pin num="23" name="GPIO0/BOOT/ADC2_CH1" type="bidirectional"/>
+        <pin num="24" name="GPIO4/ADC2_CH0" type="bidirectional"/>
+        <pin num="25" name="NC" type="no_connect"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="SD_DATA_0/GPIO7" type="bidirectional"/>
+        <pin num="28" name="SD_DATA_1/GPIO8" type="bidirectional"/>
+        <pin num="29" name="GPIO5" type="bidirectional"/>
+        <pin num="30" name="U0RXD/GPIO3" type="bidirectional"/>
+        <pin num="31" name="U0TXD/GPIO1" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="GPIO19" type="bidirectional"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO21" type="bidirectional"/>
+        <pin num="36" name="GND" type="passive"/>
+        <pin num="37" name="GND" type="passive"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+        <pin num="40" name="GND" type="passive"/>
+        <pin num="41" name="GND" type="passive"/>
+        <pin num="42" name="GND" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="GND" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
+        <pin num="46" name="GND" type="passive"/>
+        <pin num="47" name="GND" type="passive"/>
+        <pin num="48" name="GND" type="passive"/>
+        <pin num="49" name="GND" type="passive"/>
+        <pin num="50" name="GND" type="passive"/>
+        <pin num="51" name="GND" type="passive"/>
+        <pin num="52" name="GND" type="passive"/>
+        <pin num="53" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="ESP32-S2">
+      <description>ESP32-S2 family is a highly-integrated, low-power, 2.4GHz Wi-Fi System-on-Chip (SoC) solution.</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-S2</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDDA" type="power_in"/>
+        <pin num="2" name="LNA_IN/RF" type="bidirectional"/>
+        <pin num="3" name="VDD3P3" type="power_in"/>
+        <pin num="4" name="VDD3P3" type="passive"/>
+        <pin num="5" name="GPIO0/BOOT" type="bidirectional"/>
+        <pin num="6" name="GPIO1/ADC1_CH0" type="bidirectional"/>
+        <pin num="7" name="GPIO2/ADC1_CH1" type="bidirectional"/>
+        <pin num="8" name="GPIO3/ADC1_CH2" type="bidirectional"/>
+        <pin num="9" name="GPIO4/ADC1_CH3" type="bidirectional"/>
+        <pin num="10" name="GPIO5/ADC1_CH4" type="bidirectional"/>
+        <pin num="11" name="GPIO6/ADC1_CH5" type="bidirectional"/>
+        <pin num="12" name="GPIO7/ADC1_CH6" type="bidirectional"/>
+        <pin num="13" name="GPIO8/ADC1_CH7" type="bidirectional"/>
+        <pin num="14" name="GPIO9/ADC1_CH8" type="bidirectional"/>
+        <pin num="15" name="GPIO10/ADC1_CH9" type="bidirectional"/>
+        <pin num="16" name="GPIO11/ADC2_CH0" type="bidirectional"/>
+        <pin num="17" name="GPIO12/ADC2_CH1" type="bidirectional"/>
+        <pin num="18" name="GPIO13/ADC2_CH2" type="bidirectional"/>
+        <pin num="19" name="GPIO14/ADC2_CH3" type="bidirectional"/>
+        <pin num="20" name="VDD3P3_RTC" type="power_in"/>
+        <pin num="21" name="GPIO15/ADC2_CH4/XTAL_32K_P" type="bidirectional"/>
+        <pin num="22" name="GPIO16/ADC2_CH5/XTAL_32K_N" type="bidirectional"/>
+        <pin num="23" name="GPIO17/ADC2_CH6/DAC_1" type="bidirectional"/>
+        <pin num="24" name="GPIO18/ADC2_CH7/DAC_2" type="bidirectional"/>
+        <pin num="25" name="GPIO19/ADC2_CH8/USB_D-" type="bidirectional"/>
+        <pin num="26" name="GPIO20/ADC2_CH9/USB_D+" type="bidirectional"/>
+        <pin num="27" name="VDD3P3_RTC_IO" type="power_in"/>
+        <pin num="28" name="GPIO21" type="bidirectional"/>
+        <pin num="29" name="SPI_CS1/GPIO26" type="bidirectional"/>
+        <pin num="30" name="VDD_SPI" type="power_out"/>
+        <pin num="31" name="SPIHD/GPIO27" type="bidirectional"/>
+        <pin num="32" name="SPIWP/GPIO28" type="bidirectional"/>
+        <pin num="33" name="SPICS0/GPIO29" type="bidirectional"/>
+        <pin num="34" name="SPICLK/GPIO30" type="bidirectional"/>
+        <pin num="35" name="SPIQ/GPIO31" type="bidirectional"/>
+        <pin num="36" name="SPID/GPIO32" type="bidirectional"/>
+        <pin num="37" name="GPIO33" type="bidirectional"/>
+        <pin num="38" name="GPIO34" type="bidirectional"/>
+        <pin num="39" name="GPIO35" type="bidirectional"/>
+        <pin num="40" name="GPIO36" type="bidirectional"/>
+        <pin num="41" name="GPIO37" type="bidirectional"/>
+        <pin num="42" name="GPIO38" type="bidirectional"/>
+        <pin num="43" name="MTCK/JTAG/GPIO39" type="input"/>
+        <pin num="44" name="MTDO/JTAG/GPIO40" type="output"/>
+        <pin num="45" name="VDD3P3_CPU" type="power_in"/>
+        <pin num="46" name="MTDI/JTAG/GPIO41" type="input"/>
+        <pin num="47" name="MTMS/JTAG/GPIO42" type="output"/>
+        <pin num="48" name="U0TXD/GPIO43" type="bidirectional"/>
+        <pin num="49" name="U0RXD/GPIO44" type="bidirectional"/>
+        <pin num="50" name="GPIO45" type="bidirectional"/>
+        <pin num="51" name="VDDA" type="passive"/>
+        <pin num="52" name="XTAL_N" type="output"/>
+        <pin num="53" name="XTAL_P" type="input"/>
+        <pin num="54" name="VDDA" type="passive"/>
+        <pin num="55" name="GPIO46" type="input"/>
+        <pin num="56" name="CHIP_PU/RESET" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="NCP186AMX330TAG">
+      <description>1.5A, Low Voltage, Low Quiescent Current LDO Regulator, 2.3 - 6V Input, Fixed 0.8V Output, 330mV Dropout, SOIC-8</description>
+      <docs>https://ww1.microchip.com/downloads/aemtest/APID/ProductDocuments/DataSheets/MCP1727-1.5A-Low-Voltage-Low-Quiescent-Current-LDO-Regulator-20001999D.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCP186AMX330TAG</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/aemtest/APID/ProductDocuments/DataSheets/MCP1727-1.5A-Low-Voltage-Low-Quiescent-Current-LDO-Regulator-20001999D.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vout" type="power_out"/>
+        <pin num="2" name="Vout" type="passive"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="EN" type="input"/>
+        <pin num="7" name="Vin" type="passive"/>
+        <pin num="8" name="Vin" type="power_in"/>
+        <pin num="9" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="xbox" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="xbox">
+      <uri>C:\Users\Jacques\BlueRetroHW3\xbox/xbox.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Vout" pintype="power_out"/>
+      <node ref="U1" pin="2" pinfunction="Vout" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="FB" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U2" pin="20" pinfunction="VDD3P3_RTC" pintype="power_in"/>
+      <node ref="U2" pin="27" pinfunction="VDD3P3_RTC_IO" pintype="power_in"/>
+      <node ref="U2" pin="45" pinfunction="VDD3P3_CPU" pintype="power_in"/>
+      <node ref="U2" pin="51" pinfunction="VDDA" pintype="passive"/>
+      <node ref="U2" pin="54" pinfunction="VDDA" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="2" name="/BTN_LED">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="44" pinfunction="MTDO/JTAG/GPIO40" pintype="output"/>
+    </net>
+    <net code="3" name="/BTN_SW">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="38" pinfunction="GPIO34" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/CSYNC">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="GPIO10/ADC1_CH9" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="ID" pintype="passive"/>
+    </net>
+    <net code="5" name="/HCI_CTS">
+      <node ref="U2" pin="40" pinfunction="GPIO36" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="SENSOR_CAPP/GPIO37/ADC1_CH1" pintype="input"/>
+    </net>
+    <net code="6" name="/HCI_RTS">
+      <node ref="U2" pin="37" pinfunction="GPIO33" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="SENSOR_VP/GPIO36/ADC1_CH0" pintype="input"/>
+    </net>
+    <net code="7" name="/HCI_RXD">
+      <node ref="U2" pin="39" pinfunction="GPIO35" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="SENSOR_CAPN/GPIO38/ADC1_CH2" pintype="input"/>
+    </net>
+    <net code="8" name="/HCI_TXD">
+      <node ref="U2" pin="28" pinfunction="GPIO21" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="SENSOR_VN/GPIO39/ADC1_CH3" pintype="input"/>
+    </net>
+    <net code="9" name="/PICO_EN">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="GPIO7/ADC1_CH6" pintype="bidirectional"/>
+      <node ref="U3" pin="8" pinfunction="EN/CHIP_PU" pintype="input"/>
+    </net>
+    <net code="10" name="/PICO_IO0">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="GPIO0/BOOT" pintype="bidirectional"/>
+      <node ref="U3" pin="23" pinfunction="GPIO0/BOOT/ADC2_CH1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/PICO_RXD">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="49" pinfunction="U0RXD/GPIO44" pintype="bidirectional"/>
+      <node ref="U3" pin="30" pinfunction="U0RXD/GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/PICO_TXD">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="31" pinfunction="U0TXD/GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/S2_EN">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="56" pinfunction="CHIP_PU/RESET" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/S2_TXD">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/USB_D+">
+      <node ref="U2" pin="26" pinfunction="GPIO20/ADC2_CH9/USB_D+" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="D+_out" pintype="passive"/>
+    </net>
+    <net code="16" name="/USB_D-">
+      <node ref="U2" pin="25" pinfunction="GPIO19/ADC2_CH8/USB_D-" pintype="bidirectional"/>
+      <node ref="U4" pin="7" pinfunction="D-_out" pintype="passive"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="36" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="40" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="41" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="42" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="44" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="46" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="47" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="48" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="49" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="50" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="51" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="52" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="53" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VDD3P3" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="VDD3P3" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C19-Pad1)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J1-Pin_2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="D+_in" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J1-Pin_3)">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="D-_in" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(U2-GPIO18{slash}ADC2_CH7{slash}DAC_2)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="GPIO18/ADC2_CH7/DAC_2" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(U2-U0TXD{slash}GPIO43)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="48" pinfunction="U0TXD/GPIO43" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(U2-VDD_SPI)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="VDD_SPI" pintype="power_out"/>
+    </net>
+    <net code="26" name="Net-(U2-XTAL_N)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="U2" pin="52" pinfunction="XTAL_N" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(U2-XTAL_P)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="53" pinfunction="XTAL_P" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(U3-MTDI{slash}GPIO12{slash}ADC2_CH5)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="MTDI/GPIO12/ADC2_CH5" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="VBUS">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="EN" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="Vin" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="30" name="unconnected-(SW1-NC-Pad3)">
+      <node ref="SW1" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U1-NC-Pad3)">
+      <node ref="U1" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U2-GPIO1{slash}ADC1_CH0-Pad6)">
+      <node ref="U2" pin="6" pinfunction="GPIO1/ADC1_CH0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U2-GPIO2{slash}ADC1_CH1-Pad7)">
+      <node ref="U2" pin="7" pinfunction="GPIO2/ADC1_CH1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U2-GPIO3{slash}ADC1_CH2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="GPIO3/ADC1_CH2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U2-GPIO4{slash}ADC1_CH3-Pad9)">
+      <node ref="U2" pin="9" pinfunction="GPIO4/ADC1_CH3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U2-GPIO5{slash}ADC1_CH4-Pad10)">
+      <node ref="U2" pin="10" pinfunction="GPIO5/ADC1_CH4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U2-GPIO6{slash}ADC1_CH5-Pad11)">
+      <node ref="U2" pin="11" pinfunction="GPIO6/ADC1_CH5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U2-GPIO8{slash}ADC1_CH7-Pad13)">
+      <node ref="U2" pin="13" pinfunction="GPIO8/ADC1_CH7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U2-GPIO9{slash}ADC1_CH8-Pad14)">
+      <node ref="U2" pin="14" pinfunction="GPIO9/ADC1_CH8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U2-GPIO11{slash}ADC2_CH0-Pad16)">
+      <node ref="U2" pin="16" pinfunction="GPIO11/ADC2_CH0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U2-GPIO12{slash}ADC2_CH1-Pad17)">
+      <node ref="U2" pin="17" pinfunction="GPIO12/ADC2_CH1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U2-GPIO13{slash}ADC2_CH2-Pad18)">
+      <node ref="U2" pin="18" pinfunction="GPIO13/ADC2_CH2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U2-GPIO14{slash}ADC2_CH3-Pad19)">
+      <node ref="U2" pin="19" pinfunction="GPIO14/ADC2_CH3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U2-GPIO15{slash}ADC2_CH4{slash}XTAL_32K_P-Pad21)">
+      <node ref="U2" pin="21" pinfunction="GPIO15/ADC2_CH4/XTAL_32K_P" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U2-GPIO16{slash}ADC2_CH5{slash}XTAL_32K_N-Pad22)">
+      <node ref="U2" pin="22" pinfunction="GPIO16/ADC2_CH5/XTAL_32K_N" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U2-GPIO17{slash}ADC2_CH6{slash}DAC_1-Pad23)">
+      <node ref="U2" pin="23" pinfunction="GPIO17/ADC2_CH6/DAC_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U2-GPIO37-Pad41)">
+      <node ref="U2" pin="41" pinfunction="GPIO37" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U2-GPIO38-Pad42)">
+      <node ref="U2" pin="42" pinfunction="GPIO38" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U2-GPIO45-Pad50)">
+      <node ref="U2" pin="50" pinfunction="GPIO45" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U2-GPIO46-Pad55)">
+      <node ref="U2" pin="55" pinfunction="GPIO46" pintype="input+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U2-LNA_IN{slash}RF-Pad2)">
+      <node ref="U2" pin="2" pinfunction="LNA_IN/RF" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U2-MTCK{slash}JTAG{slash}GPIO39-Pad43)">
+      <node ref="U2" pin="43" pinfunction="MTCK/JTAG/GPIO39" pintype="input+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U2-MTDI{slash}JTAG{slash}GPIO41-Pad46)">
+      <node ref="U2" pin="46" pinfunction="MTDI/JTAG/GPIO41" pintype="input+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U2-MTMS{slash}JTAG{slash}GPIO42-Pad47)">
+      <node ref="U2" pin="47" pinfunction="MTMS/JTAG/GPIO42" pintype="output+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U2-SPICLK{slash}GPIO30-Pad34)">
+      <node ref="U2" pin="34" pinfunction="SPICLK/GPIO30" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U2-SPICS0{slash}GPIO29-Pad33)">
+      <node ref="U2" pin="33" pinfunction="SPICS0/GPIO29" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U2-SPID{slash}GPIO32-Pad36)">
+      <node ref="U2" pin="36" pinfunction="SPID/GPIO32" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U2-SPIHD{slash}GPIO27-Pad31)">
+      <node ref="U2" pin="31" pinfunction="SPIHD/GPIO27" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U2-SPIQ{slash}GPIO31-Pad35)">
+      <node ref="U2" pin="35" pinfunction="SPIQ/GPIO31" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U2-SPIWP{slash}GPIO28-Pad32)">
+      <node ref="U2" pin="32" pinfunction="SPIWP/GPIO28" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U2-SPI_CS1{slash}GPIO26-Pad29)">
+      <node ref="U2" pin="29" pinfunction="SPI_CS1/GPIO26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U3-32K_XN{slash}GPIO33{slash}ADC1_CH5-Pad13)">
+      <node ref="U3" pin="13" pinfunction="32K_XN/GPIO33/ADC1_CH5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U3-32K_XP{slash}GPIO32{slash}ADC1_CH4-Pad12)">
+      <node ref="U3" pin="12" pinfunction="32K_XP/GPIO32/ADC1_CH4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U3-GPIO2{slash}ADC2_CH2-Pad22)">
+      <node ref="U3" pin="22" pinfunction="GPIO2/ADC2_CH2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U3-GPIO4{slash}ADC2_CH0-Pad24)">
+      <node ref="U3" pin="24" pinfunction="GPIO4/ADC2_CH0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U3-GPIO5-Pad29)">
+      <node ref="U3" pin="29" pinfunction="GPIO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U3-GPIO19-Pad33)">
+      <node ref="U3" pin="33" pinfunction="GPIO19" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U3-GPIO20-Pad26)">
+      <node ref="U3" pin="26" pinfunction="GPIO20" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U3-GPIO21-Pad35)">
+      <node ref="U3" pin="35" pinfunction="GPIO21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U3-GPIO22-Pad34)">
+      <node ref="U3" pin="34" pinfunction="GPIO22" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U3-GPIO25{slash}ADC2_CH8{slash}DAC_1-Pad15)">
+      <node ref="U3" pin="15" pinfunction="GPIO25/ADC2_CH8/DAC_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U3-GPIO26{slash}ADC2_CH9{slash}DAC_2-Pad16)">
+      <node ref="U3" pin="16" pinfunction="GPIO26/ADC2_CH9/DAC_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U3-GPIO27{slash}ADC2_CH7-Pad17)">
+      <node ref="U3" pin="17" pinfunction="GPIO27/ADC2_CH7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U3-MTCK{slash}GPIO13{slash}ADC2_CH4-Pad20)">
+      <node ref="U3" pin="20" pinfunction="MTCK/GPIO13/ADC2_CH4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U3-MTDO{slash}GPIO15{slash}ADC2_CH3-Pad21)">
+      <node ref="U3" pin="21" pinfunction="MTDO/GPIO15/ADC2_CH3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U3-MTMS{slash}GPIO14{slash}ADC2_CH6-Pad18)">
+      <node ref="U3" pin="18" pinfunction="MTMS/GPIO14/ADC2_CH6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U3-NC-Pad25)">
+      <node ref="U3" pin="25" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U3-NC-Pad32)">
+      <node ref="U3" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U3-SD_DATA_0{slash}GPIO7-Pad27)">
+      <node ref="U3" pin="27" pinfunction="SD_DATA_0/GPIO7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U3-SD_DATA_1{slash}GPIO8-Pad28)">
+      <node ref="U3" pin="28" pinfunction="SD_DATA_1/GPIO8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U3-VDET_1{slash}GPIO34{slash}ADC1_CH6-Pad9)">
+      <node ref="U3" pin="9" pinfunction="VDET_1/GPIO34/ADC1_CH6" pintype="input+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U3-VDET_2{slash}GPIO35{slash}ADC1_CH7-Pad10)">
+      <node ref="U3" pin="10" pinfunction="VDET_2/GPIO35/ADC1_CH7" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

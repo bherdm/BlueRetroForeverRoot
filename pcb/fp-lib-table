@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xbox")(type "KiCad")(uri "${KIPRJMOD}/xbox.pretty")(options "")(descr ""))
+)

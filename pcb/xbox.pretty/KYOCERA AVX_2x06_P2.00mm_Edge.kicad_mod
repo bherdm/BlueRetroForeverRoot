@@ -1,0 +1,132 @@
+(footprint "KYOCERA AVX_2x06_P2.00mm_Edge"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Highspeed card edge connector for PCB's with 08 contacts (polarized)")
+	(tags "conn samtec card-edge high-speed")
+	(property "Reference" "REF**"
+		(at 0 -5.95 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f6ae6ad1-44e0-49be-b1cc-c6e4ca7d1c6b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "KYOCERA AVX_2x06_P2.00mm_Edge"
+		(at 0 5.7 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74882f97-ae5e-4ffe-bb55-25e5acefe492")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72fdaaa6-2ddc-4338-b854-d7fbdade05a4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0600bef4-180e-4abf-b1d7-6ff3716af38e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(pad "1" smd rect
+		(at -5 0)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3c68dd81-cfa1-4049-9c90-8b15c1d14ba3")
+	)
+	(pad "2" smd rect
+		(at -5 0)
+		(size 1.2 2.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "9e52d6f7-3719-4c81-ac1f-ad4055c397a9")
+	)
+	(pad "3" smd rect
+		(at -3 0)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ed1d8f50-5ede-438a-b5fa-fa5f3081e14d")
+	)
+	(pad "4" smd rect
+		(at -3 0)
+		(size 1.2 2.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "f998599f-61c4-4622-ab33-28072c951f05")
+	)
+	(pad "5" smd rect
+		(at -1 0)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f27dcdbc-5d5c-4ed2-a444-b43e6875db4b")
+	)
+	(pad "6" smd rect
+		(at -1 0)
+		(size 1.2 2.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "ba4c3b78-90ba-42fe-8f38-850c5c56646b")
+	)
+	(pad "7" smd rect
+		(at 1 0)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5befd42c-7b7e-4906-a79c-90bd1020226d")
+	)
+	(pad "8" smd rect
+		(at 1 0)
+		(size 1.2 2.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "00191f58-8337-4317-81f1-42fa76448182")
+	)
+	(pad "9" smd rect
+		(at 3 0)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8ecd8897-6964-4baa-b275-2c7a93d08ec2")
+	)
+	(pad "10" smd rect
+		(at 3 0)
+		(size 1.2 2.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "7e59fce1-9af3-44d0-9b55-1fcf1f8708e1")
+	)
+	(pad "11" smd rect
+		(at 5 0)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8cafa3ed-7b2e-4b33-80d7-c9b7a7b9cf2a")
+	)
+	(pad "12" smd rect
+		(at 5 0)
+		(size 1.2 2.5)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "ced1d844-572e-4b8c-8a56-026f8e232f4d")
+	)
+	(embedded_fonts no)
+)
