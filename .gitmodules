@@ -13,3 +13,6 @@
 [submodule "s2_fw_update"]
 	path = s2_fw_update
 	url = https://github.com/darthcloud/s2_fw_update.git
+[submodule "brx_documentation"]
+	path = brx_documentation
+	url = https://github.com/darthcloud/BRX.git
