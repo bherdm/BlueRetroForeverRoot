@@ -1,15 +1,15 @@
 [submodule "esp-idf"]
 	path = esp-idf
-	url = git@github.com:darthcloud/esp-idf.git
+	url = https://github.com/darthcloud/esp-idf.git
 [submodule "BlueRetro"]
 	path = BlueRetro
-	url = git@github.com:endpoint32/node0.git
+	url = https://github.com/darthcloud/BlueRetro.git
 [submodule "controller_hci_uart_esp32"]
 	path = controller_hci_uart_esp32
-	url = git@github.com:darthcloud/controller_hci_uart_esp32.git
+	url = https://github.com/darthcloud/controller_hci_uart_esp32.git
 [submodule "pico_fw_update"]
 	path = pico_fw_update
-	url = git@github.com:darthcloud/pico_fw_update.git
+	url = https://github.com/darthcloud/pico_fw_update.git
 [submodule "s2_fw_update"]
 	path = s2_fw_update
-	url = git@github.com:darthcloud/s2_fw_update.git
+	url = https://github.com/darthcloud/s2_fw_update.git
