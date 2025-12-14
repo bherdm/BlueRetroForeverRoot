@@ -2,7 +2,7 @@
 
 Build all with: `build_xbox.sh` \
 Flash ESP32-PICO with: `flash_pico.sh` \
-Flash ESP32-S2 with: `flash_s2.sh` \
+Flash ESP32-S2 with: `flash_s2.sh`
 
 Order panel from JLCPCB: \
 pcb/panel9/production/panel9.zip
