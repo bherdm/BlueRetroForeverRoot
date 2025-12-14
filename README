@@ -7,6 +7,12 @@ Flash ESP32-S2 with: `flash_s2.sh`
 Order panel from JLCPCB:
 pcb/panel9/production/panel9.zip
 
+To disable encryption:
+```
+cd BlueRetro
+git checkout 601108ecb0f2745572446fb3091b58362c73cc44
+```
+
 # BlueRetroRoot
 Root repository to sync esp-idf and BlueRetro version
 
