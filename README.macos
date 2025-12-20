@@ -47,7 +47,7 @@
    ```zsh
    cd ~/BlueRetroRoot/
    . ./blueretro_dev.sh
-   cd BlueRetro
+   cd BlueRetroForever
    # Replace configs/hw1/universal by any other config you may wish
    cp configs/hw1/universal sdkconfig
    idf.py build
