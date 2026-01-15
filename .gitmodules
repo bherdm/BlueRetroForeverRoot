@@ -5,4 +5,4 @@
 [submodule "BlueRetroForever"]
 	path = BlueRetroForever
 	url = https://github.com/bherdm/BlueRetroForever.git
-	branch = libdragonKB
+	branch = master
