@@ -1,7 +1,27 @@
-# BlueRetroRoot
-Root repository to sync esp-idf and BlueRetro version
+# BlueRetroForeverRoot
+Root repository to sync esp-idf and BlueRetroForever versions.
 
-See [BlueRetro repo](https://github.com/darthcloud/BlueRetro) for main projet infomation.
+BlueRetroForever is an active fork of the archived [BlueRetro](https://github.com/darthcloud/BlueRetro)
+by Jacques Gagnon — see that repo for the original project's documentation.
+
+## Repository layout (read this first)
+
+Three repositories nest here. Know which is which:
+
+| Repo | What it is | You edit it? |
+|---|---|---|
+| **BlueRetroForever** (this submodule) | The ESP32 firmware source — the actual code. Default branch **`main`** carries the ongoing work (N64 keyboard/mouse, etc.). | **Yes — this is the code.** |
+| **esp-idf** (this submodule) | Espressif's SDK + Xtensa toolchain. The firmware *cannot compile without it*. Pinned to a specific commit that matches the CI image. | No |
+| **BlueRetroForeverRoot** (this repo) | A build-harness superproject. Its only job: pin one firmware commit + one matching esp-idf commit together (so a build is reproducible) and provide the `blueretro_dev.sh` environment + setup guides. | Only to bump the pinned versions |
+
+Mental model: **root** = "which firmware + which SDK, wired together"; **BlueRetroForever** = the
+source you change; **esp-idf** = the compiler. Develop in the `BlueRetroForever/` submodule (on
+`main`); bump this root's submodule pointer when you want to publish a new known-good pairing:
+
+```bash
+git submodule update --remote BlueRetroForever   # advance the firmware pointer to origin/main
+git add BlueRetroForever && git commit -m "BlueRetro ref <version>"
+```
 
 # Development instructions
 
@@ -28,8 +48,8 @@ But they are not tested, so YMMV and you're on your own.
 3. Do the following commands:
    ```bash
    cd ~
-   git clone https://github.com/darthcloud/BlueRetroRoot.git
-   cd ~/BlueRetroRoot/
+   git clone https://github.com/bherdm/BlueRetroForeverRoot.git
+   cd ~/BlueRetroForeverRoot/
    git submodule update --init --recursive
    export IDF_TOOLS_PATH=$(pwd)
    cd esp-idf
